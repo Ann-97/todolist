@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1{
+    color: brown;
+    padding: 4rem;
+}
